@@ -10,3 +10,6 @@ function lastImageSelector(){
 function ninjaBabySelector(){
   
 }
+function firstLastItem(){
+  
+}
