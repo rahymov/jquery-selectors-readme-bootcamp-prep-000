@@ -15,5 +15,5 @@ function divSelector(){
 }
 
 function firstLastItem(){
-  
+  return $('ul #')
 }
