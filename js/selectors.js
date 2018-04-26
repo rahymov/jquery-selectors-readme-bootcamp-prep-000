@@ -7,4 +7,6 @@ function lastImageSelector(){
   
 }
 
-function ninjaBabySelector
+function ninjaBabySelector(){
+  
+}
